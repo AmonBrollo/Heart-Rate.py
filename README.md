@@ -1,4 +1,4 @@
-# Heart-Rate.py
+# Heart-Rate
 This program gives you the minimum and maximum heart beats to strenghten your heart in a given age.
 
 When you physically exercise to strengthen your heart, you
